@@ -1,0 +1,17 @@
+h2{color: rgb(255, 1, 1);}
+li{color:rgb(255, 230, 0)}
+h1{color: rgb(240, 94, 9);}
+ 
+  
+.pizza{
+   width: 400px;
+   height: 400px;}
+body{
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center;
+}
+.nombre{
+   color: blue;
+}
+

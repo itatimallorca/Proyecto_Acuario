@@ -1,0 +1,50 @@
+h1{color: maroon;}
+
+h2{color:navy;
+margin-right: 10px;
+}
+
+h3{color:brown}
+
+p{font-size: 20px;}
+
+li{
+    color:midnightblue;
+    font-size: 22px;
+}
+strong{
+    color: black;
+}
+u{
+    color:black;
+}
+
+.video{
+    width: 280px;
+    height: 280px;
+}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-left: 1cm;  
+}
+.contenedor{
+    display: flex;
+}
+.txt{
+    display: flex;
+    margin-top: 10px;
+}
+.hhh{
+    display: flex;
+    margin-top: 30px;
+}
+.max{
+    display:flex;
+}
+img{
+    margin-right:5px;
+}
+
+

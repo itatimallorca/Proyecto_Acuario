@@ -1,0 +1,6 @@
+#txa tr:nth-child(eve){background-color: aqua;}
+#txa td:hover{background-color: blueviolet;}
+#txa th{
+    background-color: salmon;
+}
+
